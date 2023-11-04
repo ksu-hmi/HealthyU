@@ -2,6 +2,8 @@
 - [x] Project brainstorming
 - [x] Receieve project topic approval
 - [x] Accept membership for KSU-HMI organization
-- [ ] Explore for code
-- [ ] Fork code repository of interest
-- [ ] Organize files
+- [x] Explore for intital code
+- [x] Fork code repository of interest
+- [x] Create project road map file
+- [x] Update about me file
+- [ ] Explore better fitting code repository
