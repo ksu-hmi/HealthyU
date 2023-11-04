@@ -20,3 +20,5 @@
 - [ ] Final revisions
 - [ ] Create Powerpoint slide to market project
 - [ ] Prepare for final presentation
+
+#Findings
