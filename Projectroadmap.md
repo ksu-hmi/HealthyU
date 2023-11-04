@@ -22,3 +22,4 @@
 - [ ] Prepare for final presentation
 
 #Findings
+-Able to open python files in VSC but unable to run successfully. Code in first few lines wants to import info from module but files are not found  on my computer ---- File "/Users/deboraho/Documents/HealthyU/Patient.py", line 2, in <module>from PyQt5 import QtCore, QtGui, QtWidgets ModuleNotFoundError: No module named 'PyQt5'
