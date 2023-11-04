@@ -15,3 +15,6 @@ Seniors/elderly (65+), multimorbidity
 
 ## License
 This project is licensed under the terms of the MIT license
+
+## Contributer
+Deborah Ojumu https://github.com/dojumu
