@@ -1,4 +1,2 @@
-## HealthCare App using Python
-### Front-End: QT5
-### Back-End: SQLite3
-Health Care App is developed specifically to ease appointment and consultation process for patients and for doctors to check appointments easily. This system will reduce the manual operation required to maintain all records.
+## HealthyU: A Digital Solution to Care Coordination
+About: : HealthyU is a digital solution created to satisfy the needs of the patient, payer, and care team in order to improve health outcomes and reduce healthcare spending.
