@@ -1,6 +1,6 @@
 # Sprint 1
 - [x] Project brainstorming
-- [x] Receieve project topic approval
+- [x] Receive project topic approval
 - [x] Accept membership for KSU-HMI organization
 - [x] Explore for intital code
 - [x] Fork code repository of interest
