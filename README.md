@@ -10,6 +10,8 @@ Seniors/elderly (65+), multimorbidity
 - Appointments Management
 - GPS monitoring
 - Electronic prescription
+- Diet/excercise monitoring
+- Daily care reminders
 
 ## License
 This project is licensed under the terms of the MIT license
