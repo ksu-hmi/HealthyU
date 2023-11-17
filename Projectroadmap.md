@@ -7,7 +7,7 @@
 - [x] Create project road map file
 - [x] Update about me file
 - [x] Run Code and add comments (failure to run, missing features, etc)
-- [ ] Explore better fitting code repositorty
+- [x] Explore better fitting code repositorty
 
 # Sprint 2
 - [ ] Minimim 6 code changes to reflect app solution
@@ -23,6 +23,7 @@
 
 # Findings
 * Able to open python files in VSC but unable to run successfully. Code in first few lines wants to import info from module but files are not found  on my computer ---- File "/Users/deboraho/Documents/HealthyU/Patient.py", line 2, in <module>from PyQt5 import QtCore, QtGui, QtWidgets ModuleNotFoundError: No module named 'PyQt5'
+* Difficulty finding something even close to the code I'm looking for that is just Python
 
 Other options
 * https://github.com/mishal23/virtual-clinic.git
