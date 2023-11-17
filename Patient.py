@@ -23,7 +23,7 @@ class Ui_MainWindow_4(object):
 
         self.cur.execute("INSERT INTO appointment(pname,docname,date) VALUES (?, ?, ?)",(pname,docname,aptdate))
         self.con.commit()
-        self.messagebox("Done", "Appointment Fixed")
+        self.messagebox("Done", "APPOINTMENT REQUEST HAS BEEN SUBMITTED:Please wait 24 hours to recieve a confirmation call for your submitted request.")
 
 
     def showapt(self):
