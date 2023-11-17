@@ -26,4 +26,4 @@
 * Difficulty finding something even close to the code I'm looking for that is just Python
 
 Other options
-* https://github.com/mishal23/virtual-clinic.git
+* https://github.com/mishal23/virtual-clinic.git-unable to use this, uses HTML and needs SQL also
