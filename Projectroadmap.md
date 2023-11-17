@@ -28,3 +28,4 @@
 Other options
 * https://github.com/mishal23/virtual-clinic.git-unable to use this, uses HTML and needs SQL also
 * I could go back to the original repository code I had and download the preqreqs in order to see if the code can then work desppite it being another lanaguage OR find another code that just has simple alerts and make commits related to healthcare to match my personal project
+* Installed PyQt5 and was able to get the main.py code file running
