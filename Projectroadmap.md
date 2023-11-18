@@ -10,9 +10,9 @@
 - [x] Explore better fitting code repositorty
 
 # Sprint 2
-- [ ] Minimim 6 code changes to reflect app solution
-- [ ] Note comments in commit updates: what was done and why
-- [ ] Update task list
+- [x] Minimim 6 code changes to reflect app solution
+- [x] Note comments in commit updates: what was done and why
+- [x] Update task list as needed
 - [x] Change About section on main menu to explain the purpose of app to end user
 - [x] Changing color displays
 - [ ] Center main title (pyqt5)
