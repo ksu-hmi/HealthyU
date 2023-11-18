@@ -393,8 +393,8 @@ class Ui_MainWindow_5(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "My Healthcare Login"))
-        self.label_title.setText(_translate("MainWindow", "My HeathCare"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "  HealthyU Login"))
+        self.label_title.setText(_translate("MainWindow", "HealthyU"))
         self.label_AdminP.setText(_translate("MainWindow", "Password :"))
         self.pushButton_AdminSubmit.setText(_translate("MainWindow", "Submit"))
         self.label_AdminN.setText(_translate("MainWindow", "Username :"))
