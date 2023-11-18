@@ -13,6 +13,7 @@
 - [ ] Minimim 6 code changes to reflect app solution
 - [ ] Note comments in commit updates: what was done and why
 - [ ] Update task list
+- [ ] Change About section on main menu to explain the purpose of app to end user
 
 # Sprint 3
 - [ ] Update task list for last sprint
