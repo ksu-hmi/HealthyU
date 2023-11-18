@@ -106,7 +106,7 @@ class Ui_MainWindow_5(object):
         font.setPointSize(12)
         MainWindow.setFont(font)
         MainWindow.setAutoFillBackground(False)
-        MainWindow.setStyleSheet("background-color: rgb(54, 54, 54);")
+        MainWindow.setStyleSheet("background-color: rgb(255, 255, 0);")
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.label_title = QtWidgets.QLabel(self.centralwidget)
@@ -116,7 +116,7 @@ class Ui_MainWindow_5(object):
         font.setPointSize(36)
         font.setItalic(True)
         self.label_title.setFont(font)
-        self.label_title.setStyleSheet("color: rgb(200, 14, 79);")
+        self.label_title.setStyleSheet("color: rgb(6, 13, 79);")
         self.label_title.setObjectName("label_title")
         self.tabWidget = QtWidgets.QTabWidget(self.centralwidget)
         self.tabWidget.setGeometry(QtCore.QRect(20, 160, 571, 301))
@@ -393,7 +393,7 @@ class Ui_MainWindow_5(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "  HealthyU Login"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "HealthyU Login"))
         self.label_title.setText(_translate("MainWindow", "HealthyU"))
         self.label_AdminP.setText(_translate("MainWindow", "Password :"))
         self.pushButton_AdminSubmit.setText(_translate("MainWindow", "Submit"))
