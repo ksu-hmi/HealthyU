@@ -51,7 +51,7 @@ class Ui_MainWindow_5(object):
             self.messagebox("Congrats", "Login Sucessful")
             self.openWindowAdmin()
         else:
-            self.messagebox("Error", "Enter correct details")
+            self.messagebox("Error", "Login Incorrect")
         self.con.close()
 
     def loginDoctor(self):
@@ -66,7 +66,7 @@ class Ui_MainWindow_5(object):
             self.messagebox("Congrats", "Login Sucessful")
             self.openWindowDoctor()
         else:
-            self.messagebox("Error", "Enter correct details")
+            self.messagebox("Error", "Login Incorrect")
 
     def loginPatient(self):
         self.con = sqlite3.connect("hms.db")
@@ -80,7 +80,7 @@ class Ui_MainWindow_5(object):
             self.messagebox("Congrats", "Login Sucessful")
             self.openWindowPatient()
         else:
-            self.messagebox("Error", "Enter correct details")
+            self.messagebox("Error", "Login Incorrect")
 
     # Add Patient
     def addPatient(self):
