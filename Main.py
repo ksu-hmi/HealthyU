@@ -177,9 +177,9 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
-        self.label_title.setText(_translate("MainWindow", "My HeathCare"))
+        self.label_title.setText(_translate("MainWindow", "HealthyU"))
         self.label_2.setText(_translate("MainWindow", "Doctor Name :"))
-        self.label_3.setText(_translate("MainWindow", "Welcome to My HealthCare "))
+        self.label_3.setText(_translate("MainWindow", "Welcome to HealthyU "))
         self.label_4.setText(_translate("MainWindow", "Specialiation :"))
         self.label_5.setText(_translate("MainWindow", "Qualification :"))
         self.label_6.setText(_translate("MainWindow", "Select doctor to see information"))
