@@ -15,12 +15,13 @@
 - [x] Update task list as needed
 - [x] Change About section on main menu to explain the purpose of app to end user
 - [x] Changing color displays
-- [ ] Center main title (pyqt5)
+- [ ] Center main title (pyqt5)- code not running moving to sprint 3
+
 
 
 # Sprint 3
 - [ ] Update task list for last sprint
-- [ ] Add more code changes if needed
+- [ ] Add more code changes if needed-list specifically what I want to do to match vision 
 - [ ] Final revisions
 - [ ] Create Powerpoint slide to market project
 - [ ] Prepare for final presentation
